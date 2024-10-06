@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Markin'; 
+    src: url('./assets/fonts/Markin-LT-Ultra-Bold.ttf') format('truetype'); 
+    font-weight: normal; 
+    font-style: normal; 
+
+    font-family: 'heavyheap'; 
+    src: url('./assets/fonts/heavyheap.ttf') format('truetype'); 
+    font-weight: normal; 
+    font-style: normal; 
+
+    font-family: 'p5hatty'; 
+    src: url('./assets/fonts/p5hatty.ttf') format('truetype'); 
+    font-weight: normal; 
+    font-style: normal; 
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
